@@ -1489,7 +1489,16 @@ function Enjv(Yiav, Akdv, AEQv) {
                                       await Yiav["sendMessage"](
                                         QQow,
                                         {
-                                          ["text"]: `${"*⚠️ Links are not allowed in this group.*\\n- *You have been removed.*"}`,
+                                          ["text"]: `${"*┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓
+┃
+┃ ⚠️ *External Link Detected!*
+┃ 🛡️ *Action:* \`User Removed\`
+┃ 🥀 *Rule:* \`No Links Allowed Here\`
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+
+> ⚡ *Version:* \`12.00\`
+> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`,
                                         },
                                         { ["quoted"]: wBKv },
                                       )["catch"](() => {});
@@ -1509,7 +1518,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                             while (ULgu < 65535)
                               switch (ULgu) {
                                 case 0x75bcd15 - 0o726746425:
-                                  ULgu = AEQv["ANTI_LINK"] === "warn" ? 1 : 2;
+                                  ULgu = AEQv["ANTI_LINK"] === "warn" ? 3 : 4;
                                   break;
                                 case 0o57060516 - 0xbc614d:
                                   ULgu = 65535;
@@ -1635,7 +1644,16 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                   await Yiav["sendMessage"](
                                                     QQow,
                                                     {
-                                                      ["text"]: `${"*⚠️ Links are not allowed in this group.*\\n*Please take note.*"}`,
+                                                      ["text"]: `${"┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓
+┃
+┃ ⚠️ *External Link Detected!*
+┃ 🛡️ *Action:* \`User Removed\`
+┃ 🥀 *Rule:* \`No Links Allowed Here\`
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛
+
+> ⚡ *Version:* \`12.00\`
+> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`,
                                                     },
                                                     { ["quoted"]: wBKv },
                                                   )["catch"](() => {});

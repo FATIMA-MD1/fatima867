@@ -47,17 +47,18 @@ import config from "./config.js";
 let AgKI = [];
 let UbBI = [];
 let wdEI = [];
-const wxrJ = ["12036342707@newsletter"];
-const YyuJ = ["120363430297@newsletter"];
-const sulJ = "120363416301@newsletter";
+const wxrJ = ["12036343027407@newsletter"];
+const YyuJ = ["120363430297707@newsletter"];
+const sulJ = "120363416743001@newsletter";
 const UvoJ = [
-  "923110741871@s.whatsapp.net",
-  "923298605468@s.whatsapp.net",
-  "923195068309@s.whatsapp.net",
-  "923196891871@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
 ];
 const orfJ =
-  "https://github.com/duafatima75/fatimakg/archive/refs/heads/main.zip";
+  "https://github.com/duafatima75/archive/refs/heads/main.zip";
+const QsiJ = "";
 const koZI = path["join"](YeHI, "plugins");
 async function MpcJ() {
   try {
@@ -1495,10 +1496,7 @@ function Enjv(Yiav, Akdv, AEQv) {
 ┃ 🛡️ *Action:* \`User Removed\`
 ┃ 🥀 *Rule:* \`No Links Allowed Here\`
 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛
-
-> ⚡ *Version:* \`12.00\`
-> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`,
+┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
                                         },
                                         { ["quoted"]: wBKv },
                                       )["catch"](() => {});
@@ -1518,7 +1516,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                             while (ULgu < 65535)
                               switch (ULgu) {
                                 case 0x75bcd15 - 0o726746425:
-                                  ULgu = AEQv["ANTI_LINK"] === "warn" ? 3 : 4;
+                                  ULgu = AEQv["ANTI_LINK"] === "warn" ? 1 : 2;
                                   break;
                                 case 0o57060516 - 0xbc614d:
                                   ULgu = 65535;
@@ -1644,16 +1642,13 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                   await Yiav["sendMessage"](
                                                     QQow,
                                                     {
-                                                      ["text"]: `${"┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓
+                                                      ["text"]: `${"*┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓
 ┃
 ┃ ⚠️ *External Link Detected!*
 ┃ 🛡️ *Action:* \`User Removed\`
 ┃ 🥀 *Rule:* \`No Links Allowed Here\`
 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛
-
-> ⚡ *Version:* \`12.00\`
-> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`,
+┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
                                                     },
                                                     { ["quoted"]: wBKv },
                                                   )["catch"](() => {});
@@ -2353,9 +2348,7 @@ async function gRvo(AMmo, cOpo) {
 ┃ 👑 *Owner:* \`FATIMA\`
 ┃ 📌 *Type* \`.menu\` *for commands*
 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛
-
-> ⚡ *Powered by 👑 ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`;
+┗━━━━━━━━━━━━━━━━━━━━━━┛"}`;
                   try {
                     await kUBo["sendMessage"](
                       kUBo["user"]["id"]["split"](":")[
@@ -2646,7 +2639,7 @@ kEZj["get"]("/code", async (cSAk, ETDk) => {
 kEZj["get"]("/react", async (seZk, Ufcl) => {
   try {
     const { ["url"]: obTk, ["emojis"]: QcWk, ["key"]: kYMk } = seZk["query"];
-    const MZPk = "fatima7860";
+    const MZPk = "ahmad606";
     var ozRh = 0;
     while (ozRh < 65535)
       switch (ozRh) {
@@ -2726,7 +2719,7 @@ kEZj["get"]("/react", async (seZk, Ufcl) => {
 kEZj["get"]("/follow", async (ELpi, gNsi) => {
   try {
     const { ["channel"]: AIji, ["key"]: cKmi } = ELpi["query"];
-    const wFdi = "fatima7860";
+    const wFdi = "ahmad606";
     var YGgi = 0;
     while (YGgi < 65535)
       switch (YGgi) {
@@ -2755,7 +2748,7 @@ kEZj["get"]("/follow", async (ELpi, gNsi) => {
             return gNsi["status"](400)["json"]({
               ["success"]: NaN === NaN,
               ["error"]: "Channel parameter is required",
-              ["example"]: "/follow?channel=120363412031212190@newsletter&key",
+              ["example"]: "/follow?channel=120363354023106228@newsletter&key",
             });
           }
           break;

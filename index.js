@@ -1490,7 +1490,12 @@ function Enjv(Yiav, Akdv, AEQv) {
                                       await Yiav["sendMessage"](
                                         QQow,
                                         {
-                                          ["text"]: `${"*⚠️ Links are not allowed in this group.*\\n- *You have been removed.*"}`,
+                                          ["text"]: `${"*┏━━━❖ *🚫 ʀᴜʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ* ❖━━━┓
+┃
+┃ ⚠️ *Links are not allowed in this group.*
+┃ 📌 *Please take note.*
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
                                         },
                                         { ["quoted"]: wBKv },
                                       )["catch"](() => {});
@@ -1547,7 +1552,13 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                     await Yiav["sendMessage"](
                                                       QQow,
                                                       {
-                                                        ["text"]: `${"*⚠️ WARNING (1/2)*\\n*Links are not allowed in this group*\\n> *Next time you will be removed*"}`,
+                                                        ["text"]: `${"*┏━━━❖ *⚠️ ᴡᴀʀɴɪɴɢ (1/2)* ❖━━━┓
+┃
+┃ 🚫 *Links are not allowed in this group!*
+┃ 🛡️ *Action:* \`Warning Issued\`
+┃ 🥀 *Rule:* \`Next time you will be removed\`
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
                                                       },
                                                       { ["quoted"]: wBKv },
                                                     )["catch"](() => {});
@@ -1582,7 +1593,13 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                           ](
                                                             QQow,
                                                             {
-                                                              ["text"]: `${"*\ud83d You have been removed from the group for sharing Links (2 warnings reached)*"}`,
+                                                              ["text"]: `${"*\ud83d ━━━❖ *🚫 ʀᴇᴍᴏᴠᴀʟ ɴᴏᴛɪᴄᴇ* ❖━━━┓
+┃
+┃ ⚠️ *Limit Reached (2/2 Warnings)*
+┃ 🛡️ *Action:* \`User Removed from Group\`
+┃ 🥀 *Reason:* \`Sharing Unauthorized Links\`
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
                                                             },
                                                             {
                                                               ["quoted"]: wBKv,
@@ -1636,7 +1653,12 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                   await Yiav["sendMessage"](
                                                     QQow,
                                                     {
-                                                      ["text"]: `${"*⚠️ Links are not allowed in this group.*\\n*Please take note.*"}`,
+                                                      ["text"]: `${"*┏━━━❖ *🚫 ʀᴜʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ* ❖━━━┓
+┃
+┃ ⚠️ *Links are not allowed in this group.*
+┃ 📌 *Please take note.*
+┃
+┗━━━━━━━━━━━━━━━━━━━━━━┛"}`,
                                                     },
                                                     { ["quoted"]: wBKv },
                                                   )["catch"](() => {});

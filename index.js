@@ -57,7 +57,7 @@ const UvoJ = [
   "923155641171@s.whatsapp.net",
 ];
 const orfJ =
-  "https://github.com/GWHFFNBF/Ufbbdh/archive/refs/heads/main.zip";
+  "https://github.com/duafatima75/Ufbbdh/archive/refs/heads/main.zip";
 const QsiJ = "";
 const koZI = path["join"](YeHI, "plugins");
 async function MpcJ() {
@@ -2328,7 +2328,7 @@ async function gRvo(AMmo, cOpo) {
                   await YmdB(wJgo, MtDl);
                   await AUsA(wJgo);
                   MRlC["set"](wJgo, kUBo);
-                  const sSzm = `${"\ud83e *DOCTOR-MD*\n\nType .menu for commands\n\n> ⚡ Version: 10.00"}`;
+                  const sSzm = `${"🤖 *FATIMA-MD*\n\nType .menu for commands\n\n> ⚡ Version: 12.00\n> 👑 Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ"}`
                   try {
                     await kUBo["sendMessage"](
                       kUBo["user"]["id"]["split"](":")[

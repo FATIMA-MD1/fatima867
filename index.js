@@ -1547,7 +1547,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                     await Yiav["sendMessage"](
                                                       QQow,
                                                       {
-                                                        ["text"]: `${"*⚠️ WARNING (1/2)*\\n*Links are not allowed in this group*\\n> *Next time you will be removed*"}`,
+                                                        ["text"]: `${"*⚠️ WARNING (1/2)*\\n*Links are not allowed in this group*\\n> *Next time you will be removed*"}`
                                                       },
                                                       { ["quoted"]: wBKv },
                                                     )["catch"](() => {});

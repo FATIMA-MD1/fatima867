@@ -51,14 +51,14 @@ const wxrJ = ["120363430297481707@newsletter"];
 const YyuJ = ["120363430297481707@newsletter"];
 const sulJ = "120363416743041101@newsletter";
 const UvoJ = [
-  "923110741871@s.whatsapp.net",
-  "923298605468@s.whatsapp.net",
-  "923195068309@s.whatsapp.net",
-  "923196891871@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
+  "923155641171@s.whatsapp.net",
 ];
 const orfJ =
-  "https://github.com/duafatima75/Ufbbdh/archive/refs/heads/main.zip";
-const QsiJ = "https://github.com/CatoJi/ai/archive/refs/heads/main.zip";
+  "https://github.com/GWHFFNBF/Ufbbdh/archive/refs/heads/main.zip";
+const QsiJ = "";
 const koZI = path["join"](YeHI, "plugins");
 async function MpcJ() {
   try {
@@ -1490,12 +1490,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                       await Yiav["sendMessage"](
                                         QQow,
                                         {
-                                          ["text"]: `${"*┏━━━❖ *🚫 ʀᴜʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ* ❖━━━┓
-┃
-┃ ⚠️ *Links are not allowed in this group.*
-┃ 📌 *Please take note.*
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
+                                          ["text"]: `${"┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓\n┃\n┃ ⚠️ *Links are not allowed in this group.*\n┃ - *You have been removed.*\n┃\n┗━━━━━━━━━━━━━━━━━━━━━━┛\n\n> ⚡ *Version:* \`12.00\`\n> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`
                                         },
                                         { ["quoted"]: wBKv },
                                       )["catch"](() => {});
@@ -1552,13 +1547,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                     await Yiav["sendMessage"](
                                                       QQow,
                                                       {
-                                                        ["text"]: `${"*┏━━━❖ *⚠️ ᴡᴀʀɴɪɴɢ (1/2)* ❖━━━┓
-┃
-┃ 🚫 *Links are not allowed in this group!*
-┃ 🛡️ *Action:* \`Warning Issued\`
-┃ 🥀 *Rule:* \`Next time you will be removed\`
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
+                                                        ["text"]: `${"*⚠️ WARNING (1/2)*\\n*Links are not allowed in this group*\\n> *Next time you will be removed*"}`,
                                                       },
                                                       { ["quoted"]: wBKv },
                                                     )["catch"](() => {});
@@ -1593,13 +1582,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                           ](
                                                             QQow,
                                                             {
-                                                              ["text"]: `${"*\ud83d ━━━❖ *🚫 ʀᴇᴍᴏᴠᴀʟ ɴᴏᴛɪᴄᴇ* ❖━━━┓
-┃
-┃ ⚠️ *Limit Reached (2/2 Warnings)*
-┃ 🛡️ *Action:* \`User Removed from Group\`
-┃ 🥀 *Reason:* \`Sharing Unauthorized Links\`
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛*"}`,
+                                                              ["text"]: `${"┏━━━❖ *🚫 sᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓\n┃\n┃ ⚠️ *You have been removed from the group for sharing Links (2 warnings reached)*\n┃\n┗━━━━━━━━━━━━━━━━━━━━━━┛\n\n> ⚡ *Version:* \`12.00\`\n> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`
                                                             },
                                                             {
                                                               ["quoted"]: wBKv,
@@ -1653,12 +1636,7 @@ function Enjv(Yiav, Akdv, AEQv) {
                                                   await Yiav["sendMessage"](
                                                     QQow,
                                                     {
-                                                      ["text"]: `${"*┏━━━❖ *🚫 ʀᴜʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ* ❖━━━┓
-┃
-┃ ⚠️ *Links are not allowed in this group.*
-┃ 📌 *Please take note.*
-┃
-┗━━━━━━━━━━━━━━━━━━━━━━┛"}`,
+                                                      ["text"]: `${"┏━━━❖ *🚫 ꜱᴇᴄᴜʀɪᴛʏ ᴀʟᴇʀᴛ* ❖━━━┓\n┃\n┃ ⚠️ *Links are not allowed in this group.*\n┃ - *You have been removed.*\n┃\n┗━━━━━━━━━━━━━━━━━━━━━━┛\n\n> ⚡ *Version:* \`12.00\`\n> 👑 *Powered by ꜰᴀᴛɪᴍᴀ-ᴍᴅ*"}`
                                                     },
                                                     { ["quoted"]: wBKv },
                                                   )["catch"](() => {});
@@ -2350,7 +2328,7 @@ async function gRvo(AMmo, cOpo) {
                   await YmdB(wJgo, MtDl);
                   await AUsA(wJgo);
                   MRlC["set"](wJgo, kUBo);
-                  const sSzm = `${"\ud83e *FATIMA-MD*\n\nType .menu for commands\n\n> ⚡ Version: 12.00"}`;
+                  const sSzm = `${"\ud83e *DOCTOR-MD*\n\nType .menu for commands\n\n> ⚡ Version: 10.00"}`;
                   try {
                     await kUBo["sendMessage"](
                       kUBo["user"]["id"]["split"](":")[

